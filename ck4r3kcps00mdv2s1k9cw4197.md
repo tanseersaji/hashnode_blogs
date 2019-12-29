@@ -1,6 +1,6 @@
 ## Quantum Programming 101
 
-> We have a task, make something accurate and reliable that is fundamentally chaotic.
+> We have a task, make something accurate and reliable out of something that is fundamentally chaotic.
 
 ***NOTE: [Click Here](#quantum-random-number-generator) to skip Theory and start quantum programming now..***
 
