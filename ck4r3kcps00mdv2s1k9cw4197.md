@@ -103,9 +103,9 @@ Which object you have to use will depend on the Architecture of the Quantum Devi
 In order to get a Qubit in cirq, use this line of code.
 
 ```
-qubits = [c.GridQubit(0,0)]
+qubits = [c.GridQubit(5,1)]
 ```
-Here 0,0 is the position of a qubit in the Chip. Since quantum computing is a relatively new field of computer science we have to work closely with Quantum Hardware. So you have to make sure that this qubit is available in the device you are using.
+Here 5,1 is the position of a qubit in the Chip. Since quantum computing is a relatively new field of computer science we have to work closely with Quantum Hardware. So you have to make sure that this qubit is available in the device you are using.
 
 For example, if you are using Google's Bristlecone quantum chip, then you can print the placement of qubits in this device using:
 
