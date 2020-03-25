@@ -80,3 +80,5 @@ Both the codes will work fine but, you can clearly see that code 1 looks far mor
 So that is all from my side, by following these subtle styles, your code will look a lot beautiful. Give it a shot and tell me how you feel about your code before and after applying these styles, in the comments below.
 
 Thanks
+
+Further Read:  The Six Commandments of Good Code: Write Code That Stands the Test of Time [https://www.toptal.com/software/six-commandments-of-good-code]
