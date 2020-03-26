@@ -81,5 +81,6 @@ So that is all from my side, by following these subtle styles, your code will lo
 
 Thanks
 
-### Further Read
-1. The Six Commandments of Good Code: Write Code That Stands the Test of Time [https://www.toptal.com/software/six-commandments-of-good-code]
+
+### Further Reading Suggestion:
+1. [6 Commandments of Good Code](https://www.toptal.com/software/six-commandments-of-good-code)
