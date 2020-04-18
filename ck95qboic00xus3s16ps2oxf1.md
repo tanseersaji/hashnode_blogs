@@ -1,7 +1,5 @@
 ## How I changed Devblog's Footer (CSS pseudo-elements)?
 
-*Note: Devblog Team, If you want me to take down this one, then just message me :)*
-
 In this blog, I'll show you how I changed Devblog's default Footer text using CSS pseudo elements.
 
 ## What are CSS pseudo elements?
